@@ -1,2 +1,2 @@
 # JapaneseStudyNote
-- Record my Japanese studies.
+- Record my Japanese studies from GENKI.
