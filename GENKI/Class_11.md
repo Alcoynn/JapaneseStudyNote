@@ -88,10 +88,10 @@
 - いつか中国に行きたいです。　～somedays
 
 - あの人には会いたくないです。
-お弁当が買いたかったから、コンビニに行きましたか。
-留学したいと思っています。　I've wanted to study abroad
-メアリさんはチベットに行きたいと言っていました。
-私は料理が好きだから、将来、シェフになりたいです。
+- お弁当が買いたかったから、コンビニに行きましたか。
+- 留学したいと思っています。　I've wanted to study abroad
+- メアリさんはチベットに行きたいと言っていました。
+- 私は料理が好きだから、将来、シェフになりたいです。
 
 >　たがっている　describe　somebody　want todo
 
@@ -106,86 +106,89 @@
 ### ～たり～たりする
 
 >　verb(short,past) + り、verb(short,past) +　り　> do such things as this and that
-大阪で買い物をして、晩ご飯を食べます。＝大阪で買い物をしたり、晩ご飯を食べたりします。
-週末は、勉強したり、友だちと話したりしました。
-踊ったり、音楽を聞いたりするのが好きです。　I　like dancing,listening to music,and so　forth
+
+- 大阪で買い物をして、晩ご飯を食べます。＝大阪で買い物をしたり、晩ご飯を食べたりします。
+- 週末は、勉強したり、友だちと話したりしました。
+- 踊ったり、音楽を聞いたりするのが好きです。　I　like dancing,listening to music,and so　forth
 
 ### ～ことがある
 
 >　past short verb　+　ことがある　>　did something　or　happened
-富士山に登ったことがあります。
-たけしさんは授業を休んだことがありません。
-ヨーロッパに行ったことがありますか。
-はい、いったことがあります。\あります。
-x　はい、ことがあります。
+
+- 富士山に登ったことがあります。
+- たけしさんは授業を休んだことがありません。
+- ヨーロッパに行ったことがありますか。
+- はい、いったことがあります。\あります。
+- x　はい、ことがあります。
 
 ### Noun A や　Noun B
 
 > A and B,for example
-京都や奈良に行きましたか。　went to Kyoto and Nara(may visited other places as well)
+
+- 京都や奈良に行きましたか。　went to Kyoto and Nara(may visited other places as well)
 
 ## 文例
 
 ### は　in reply negative sentences
 
-xx？
-いいえ、テレビは見ません。
+- xx？
+- いいえ、テレビは見ません。
 
 ### に\で　+　は
 
-英語では話したくないです。
-広島にはいったことがありません。
-日本で車を運転したことがありますか？
-湖までドライブに行きました。
+- 英語では話したくないです。
+- 広島にはいったことがありません。
+- 日本で車を運転したことがありますか？
+- 湖までドライブに行きました。
 
 ## 練習
 
-山に登ったくないです。
-日本語を練習したいです。
-温泉に行きたいです。
-ゆっくり休みたくないです。
+- 山に登ったくないです。
+- 日本語を練習したいです。
+- 温泉に行きたいです。
+- ゆっくり休みたくないです。
 
-テレビを見たいです。
-電車で遊びたかったです。
-行きたかったです
-習いたかったです。
-車を運転したかったです。
-会いたかったです。
+- テレビを見たいです。
+- 電車で遊びたかったです。
+- 行きたかったです
+- 習いたかったです。
+- 車を運転したかったです。
+- 会いたかったです。
 
-山下先生は温泉に行ったり、休んたりでした。
+- 山下先生は温泉に行ったり、休んたりでした。
 
-どちらでもいいです　both are fine
-同じです　おなじです　same thing
-だいたい同じです。
-ちょっと違います。　a little different
-使えません　can't　use it
-駄目です　だめです。
-手を上げてください。　てをあげてください。　raise your hand
-読んできてください。　read it before coming to class
-宿題を出してくださぃ　しゅくだいをだしてください。　hand in the homework
-開いてください。
-閉じいてください。
-やめてください。　please stop
-今日はこれで終わります。　that's it for today.
+- どちらでもいいです　both are fine
+- 同じです　おなじです　same thing
+- だいたい同じです。
+- ちょっと違います。　a little different
+- 使えません　can't　use it
+- 駄目です　だめです。
+- 手を上げてください。　てをあげてください。　raise your hand
+- 読んできてください。　read it before coming to class
+- 宿題を出してくださぃ　しゅくだいをだしてください。　hand in the homework
+- 開いてください。
+- 閉じいてください。
+- やめてください。　please stop
+- 今日はこれで終わります。　that's it for today.
 
-締め切り　しめきり（deadline）
-練習　れんしゅう
-意味　いみ
-発音　はつおん
-文法　ぶんぽう
-質問　しつもん
-答え　こたえ　answer
-例　れい
-かっこ　（）（parentheses）
-まる　correct
-ばつ　wrong
-くだけた言い方　colloquial expression
-硬い言い方　かたいいいかた　bookish expression
-丁寧な言い方　ていねいないいかた　polite expression
-方言　ほうげん
-共通語　きょうつうご　common language
-例えば　for example
-ほかに　anything else...
-～番　number...
-～行目　line number...
-二人ずつ　two people each
+- 締め切り　しめきり（deadline）
+- 練習　れんしゅう
+- 意味　いみ
+- 発音　はつおん
+- 文法　ぶんぽう
+- 質問　しつもん
+- 答え　こたえ　answer
+- 例　れい
+- かっこ　（）（parentheses）
+- まる　correct
+- ばつ　wrong
+- くだけた言い方　colloquial expression
+- 硬い言い方　かたいいいかた　bookish expression
+- 丁寧な言い方　ていねいないいかた　polite expression
+- 方言　ほうげん
+- 共通語　きょうつうご　common language
+- 例えば　for example
+- ほかに　anything else...
+- ～番　number...
+- ～行目　line number...
+- 二人ずつ　two people each
