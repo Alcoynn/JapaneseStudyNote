@@ -235,25 +235,25 @@
 
 ### 銀行で
 
-口座　account
-手数料　commission
-キャッシュカード　bank card
-通帳　passbook
-預金　savings
-百円玉　100-yen coin
-金額　amount
-暗証番号　personal identification number
+- 口座　account
+- 手数料　commission
+- キャッシュカード　bank card
+- 通帳　passbook
+- 預金　savings
+- 百円玉　100-yen coin
+- 金額　amount
+- 暗証番号　personal identification number
 
-口座を開きたいんですが　I would like to open an account
-口座を閉じたいんですが
-ドルを円に変えてください　please change dollars into yen
-口座にお金を振り込みたいんですが　I would like to deposit money into this account
-一万円札を千円札十枚に両替できますか。　Can u change a 10000yen bill into ten 1000-yen bills?
-お金をおろします I will withdraw money
+- 口座を開きたいんですが　I would like to open an account
+- 口座を閉じたいんですが
+- ドルを円に変えてください　please change dollars into yen
+- 口座にお金を振り込みたいんですが　I would like to deposit money into this account
+- 一万円札を千円札十枚に両替できますか。　Can u change a 10000yen bill into ten 1000-yen bills?
+- お金をおろします I will withdraw money
 
-お預入れ　deposit
-お引き出し　withdrawal
-通帳記入（つうちょうきにゅう）　passbook update
-お振込　bank transfer
-クレジットカード　credit card
-残高照会　balance inquiry
+- お預入れ　deposit
+- お引き出し　withdrawal
+- 通帳記入（つうちょうきにゅう）　passbook update
+- お振込　bank transfer
+- クレジットカード　credit card
+- 残高照会　balance inquiry
