@@ -126,4 +126,34 @@
 
 ## 文例
 
+### Expressions
+
+- ～泊（はく）...nights
+- ～付（つき）with ...
+- 食事付（しょくじつき）with meals
+- 一泊二食付（いっぱくにしょくつき）　　one night with two meals
+- チェックイン（する）check in
+- チェックアウト　　checkout
+- シングル　　single room
+- ダブル　　double room
+- ツイン　　twin room
+- ～名（めい）　　...person(s)
+- フロント　　front desk
+- 禁煙ルーマ　　non-smoking room
+- 喫煙ルーマ  smoking room
+
+- クレジットカードで払えますか。　　can i pay by credit card?
+- 二時まで荷物を預かってくれませんか。　　could you keep my luggage until 2 o'clock?
+
+#### 旅館の予約
+
+- 一泊いくらですか。
+- 何名様ですか
+- 三名です
+- 一泊2食付でお一人様、一万二千円です。
+- じゃあ、予約お願いします。
+- 何日から何泊のご予約ですか。
+- 来週の金曜日から三泊です。
+- はい、かしこまりました。お客様のお名前とお電話番号をお願いします。
+
 ## 練習
